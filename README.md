@@ -1,1 +1,1 @@
-# Hello guys , this the liust of Level 1 projects
+# Hello guys , this the list of Level 1 projects
